@@ -1,0 +1,28 @@
+.App {
+  color: red;
+}
+.header{
+  font-size:40px;
+  color:darkblue
+}
+.title{
+  font-size: 18px;
+  color:rgb(42, 48, 155)
+}
+.title1{
+  font-size: 20px;
+  color:rgb(42, 48, 155)
+}
+
+.imageParent .image{
+  width: 80%;
+  height: auto;
+}
+.imageParent .image2{
+width:60%;
+height:auto;
+}
+.imageParent .image3{
+  width: 50%;
+  height: auto;
+}
